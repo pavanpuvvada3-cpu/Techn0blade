@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "CVHSMPS2.aternos.me",
+    "port": 33807,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
@@ -46,7 +46,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
